@@ -6,13 +6,11 @@
 * Hopped into writing a first Solana program w/ Rust + deploy to the actual blockchain.
 * Optionally update the Solana program with new features.
 
-<img src="assets/warmste-dao-highligt.jpg" />
+<img src="assets/overview.jpg" />
 
 **Connecting React web app to a Solana wallet.**
 * 💻 Building a connect wallet button with Phantom Wallet
 * 🌈 Building the GIF grid
-
-<img src="assets/overview.jpg" />
 
 **Write a Solana Program**
 * 😍 Get local Solana env running
